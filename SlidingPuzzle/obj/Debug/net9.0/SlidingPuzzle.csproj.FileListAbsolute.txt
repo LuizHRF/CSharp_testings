@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\bin\Debug\net9.0\SlidingPuzzle.exe
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\bin\Debug\net9.0\SlidingPuzzle.deps.json
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\bin\Debug\net9.0\SlidingPuzzle.runtimeconfig.json
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\bin\Debug\net9.0\SlidingPuzzle.dll
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\bin\Debug\net9.0\SlidingPuzzle.pdb
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.AssemblyInfo.cs
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.dll
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\refint\SlidingPuzzle.dll
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.pdb
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\SlidingPuzzle.genruntimeconfig.cache
+C:\Users\Pichau\Documents\C0de\C#_Testings\SlidingPuzzle\obj\Debug\net9.0\ref\SlidingPuzzle.dll
